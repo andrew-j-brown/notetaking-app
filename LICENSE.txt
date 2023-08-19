@@ -1,0 +1,6 @@
+The DMWYW License (DMWYW)
+
+Copyright (c) 2023 Justin Brown (https://codepen.io/JustinBrown/pen/dywbyom)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to do mostly whatever you want with said files. Just don't sell it or pass it off as your own. Cool? Cool. 🙂👍
